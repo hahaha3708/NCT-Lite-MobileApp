@@ -8,7 +8,11 @@ This section showcases the actual interface of the application.
 
 | Home Screen | Player Screen | Playlist Screen | Search Screen |
 |:---:|:---:|:---:|:---:|
-| <img src="./assets/home_screen.png" alt="Home Screen" width="200"/> | <img src="./assets/player_screen.png" alt="Player Screen" width="200"/> | <img src="./assets/playlist_screen.png" alt="Playlist Screen" width="200"/> | <img src="./assets/search_screen.png" alt="Search Screen" width="200"/> |
+|<img width="310" height="698" alt="image" src="https://github.com/user-attachments/assets/b4cf199a-6030-423d-8b4c-1512dceac9ac" />
+|<img width="325" height="697" alt="image (2)" src="https://github.com/user-attachments/assets/302a2659-6e95-428a-99f1-3d2b523ec79e" />
+|<img width="325" height="699" alt="image (3)" src="https://github.com/user-attachments/assets/cdf7d447-8b2f-4089-a75b-0be48eb059c0" />
+|<img width="318" height="697" alt="image (1)" src="https://github.com/user-attachments/assets/0f512c6e-04f3-4a74-9b87-d0e98b649a61" />
+|
 
 > *Note: Please replace the `./assets/...` paths with your actual product screenshots.*
 
@@ -83,12 +87,3 @@ NCT-Lite-MobileApp/
 └── README.md
 ```
 
-## 👤 Author
-
-*   **Your Name**
-*   Email: email@example.com
-*   LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
-*   GitHub: [github.com/username](https://github.com)
-
----
-*This project is for educational purposes and to demonstrate Android development skills.*
